@@ -1,2 +1,3 @@
-TRAINING_FILE = "../input/mnist_train_folds.csv"
-MODEL_OUTPUT = "../models/"
+INPUT_PATH = "../input"
+OUTPUT_PATH = "../output"
+MODEL_OUTPUT_PATH = "../models"
